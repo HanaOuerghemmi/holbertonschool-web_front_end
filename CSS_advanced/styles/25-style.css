@@ -45,7 +45,7 @@
     --button-text-decoration:none;
     --button-font-size:var(--font-size-large);
     --button-hover-color: var(--color-white);
-    --button-hover-text-decoration: none;
+    --button-hover-text-decoration:none;
     --button-hover-background: var(--color-primary);
 
 }
@@ -209,7 +209,7 @@ ul.row{
     border: var(--button-border);
     font-size: var(--button-font-size);
     color: var(--button-color);
-    text-decoration: var(--button-hover-text-decoration);
+    text-decoration: var(--button-text-decoration);
 }
 .button:hover{
     color: var(--button-hover-color);
