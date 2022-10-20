@@ -14,8 +14,9 @@
     --font-size-xx-large: 4.8rem;
     --font-weight-regular: 400;
     --font-weight-bold: 700;
-    --line-height-base: 0.5;
-    --line-height-big:0.8;
+    --line-height-base: 1.5;
+    --line-height-small: 1.2;
+    --line-height-big:1.8;
 
 }
 html{
