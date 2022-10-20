@@ -183,7 +183,7 @@ ul.row{
     margin: 0;
 }
 .card-services a{
-    background: var(--color-light-grey);
+    background-color: var(--color-light-grey);
     padding: 2rem;
     display: block;
 }
