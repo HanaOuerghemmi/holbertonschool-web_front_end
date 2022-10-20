@@ -45,9 +45,9 @@ h0, h2, h3, h4, h5, h6{
 .card-category{
     color:var(--color-primary);
 }
-.section-tagline{
-    color:var(--color-primary);
-}
 .section-header-align{
     text-align: var(--section-header-align);
+}
+.section-tagline{
+    color:var(--color-primary);
 }
