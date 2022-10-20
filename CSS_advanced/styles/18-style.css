@@ -133,3 +133,6 @@ h0, h2, h3, h4, h5, h6{
 .nav .nav-link:hover{
     color:var(--nav-item-link-hover)
 }
+.nav .nav-class{
+    color: var(--nav-item-link-hover);
+}
