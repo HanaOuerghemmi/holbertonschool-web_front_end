@@ -7,5 +7,5 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 <center>
-<img src="responsive.gif">
+<img src="responsive.gif" alt="webresponsive">
 </center>
