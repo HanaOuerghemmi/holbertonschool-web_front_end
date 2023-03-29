@@ -1,11 +1,11 @@
 /*assigns the text color #3D3D3D*/
-$text-body-color: #3D3D3D;
+$hover-color: #00FF00;
 $text-color: #FF0000;
 
 button {
-  color: $text-body-color;
+  color: $text-color;
    &:hover{
-    color: $text-color;
+    color: $hover-color;
   }
 
 }
