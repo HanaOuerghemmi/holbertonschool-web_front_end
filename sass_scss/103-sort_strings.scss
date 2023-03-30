@@ -1,0 +1,5 @@
+/* that sorts the variable $list_to_sort and prints the sorted list in the debug output.*/
+@import "103-sort_list.scss";
+
+$list_sorted: sort($list_to_sort);
+@debug $list_sorted;
