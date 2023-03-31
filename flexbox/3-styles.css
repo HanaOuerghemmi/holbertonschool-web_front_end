@@ -309,7 +309,7 @@ h6 {
 a {
   color: var(--text-color);
   text-decoration: none;
-} 
+}
 
 a:visited {
   font-style: italic;
@@ -562,12 +562,12 @@ ul.row {
   flex-direction: row-reverse;
 }
 
+
 /* Section SERVICES ============================= */
 
-.section-services .row{
+.section-services .row {
   flex-wrap: wrap;
 }
-
 
 /*** 4. CARD ***/
 
