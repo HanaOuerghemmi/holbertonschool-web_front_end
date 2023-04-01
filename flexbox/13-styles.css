@@ -774,7 +774,8 @@ ul.row {
 }
 .post-meta-list [class*='post-meta-'] {
   margin-bottom: 1rem;
-  padding-bottom: 0.2rem solid var(--color-light-grey);
+  padding-bottom: 1rem;
+  border-bottom: 0.2rem solid var(--color-light-grey);
 }
 .post-meta-list [class*='post-meta']:last-child {
   border: none;
